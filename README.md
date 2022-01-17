@@ -18,17 +18,14 @@ Here are some ideas to get you started:
 - Hobby🤩: 📷 🏀 💻 🖍 🍲
 - 💬 Ask me about ...you want to know..
 
-
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jealh-h&layout=compact" />
-</td>
-<td width="50%">
-⌨<a href="https://gist.github.com/Jealh-h/9ab32f0ec87816c1ef983a5e547548fc" target="_blank">Weekly Development Breakdown</a>
+<div style="display:flex;justify-content:space-evenly;align-items:start;vertical-align:top">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jealh-h&layout=compact" />
+	<span valign="top" width="50%">
+ ⌨<a href="https://gist.github.com/Jealh-h/9ab32f0ec87816c1ef983a5e547548fc" target="_blank">Weekly Development Breakdown</a>
 <!-- code_time starts -->
 <!-- code_time ends -->
-</td>
-</tr>
+</span>
+</div>
 
 ![Jealh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jealh-h)
 
@@ -36,5 +33,4 @@ Here are some ideas to get you started:
 <p></p>
 <img src="https://profile-counter.glitch.me/Jealh-h/count.svg" alt="hit counter" align="center">
 </div>
-
 
