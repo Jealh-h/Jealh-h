@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Interest😄：<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python" title="python" height="25">&nbsp;
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" title="react" alt="react" height="25">
+- Interest😄：<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python" title="python" height="25">&nbsp;<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" title="react" alt="react" height="25">&nbsp;
 - Hobby🤩: 📷 🏀 💻 🖍 🍲
 - 💬 Ask me about ...you want to know..
 
