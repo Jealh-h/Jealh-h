@@ -14,22 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Interest😄：<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python" title="python" height="25">&nbsp;<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" title="react" alt="react" height="25">&nbsp;
+- Interest😄：<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python" title="python" height="25">&nbsp;<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" title="react" alt="react" height="25"/>&nbsp;
 - Hobby🤩: 📷 🏀 💻 🖍 🍲
 - 💬 Ask me about ...you want to know..
 
 
 <tr>
-<td>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jealh-h&layout=compact)
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jealh-h&layout=compact" />
 </td>
-<td>
+<td width="50%">
 ⌨<a href="https://gist.github.com/Jealh-h/9ab32f0ec87816c1ef983a5e547548fc" target="_blank">Weekly Development Breakdown</a>
 <!-- code_time starts -->
 <!-- code_time ends -->
 </td>
 </tr>
-######
+
 ![Jealh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jealh-h)
 
 <div align="center">
