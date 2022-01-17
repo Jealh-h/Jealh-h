@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - Hobby🤩: 📷 🏀 💻 🖍 🍲
 - 💬 Ask me about ...you want to know..
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jealh-h&layout=compact)
+
+  | weekly development time
+ :-:|:-:
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jealh-h&layout=compact)|<!-- code_time starts --><!-- code_time ends -->
 ######
 ![Jealh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jealh-h)
 
