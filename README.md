@@ -19,9 +19,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...you want to know..
 
 
-  | weekly development time
- :-:|:-:
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jealh-h&layout=compact)|<!-- code_time starts --><!-- code_time ends -->
+<tr>
+<td>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jealh-h&layout=compact)
+</td>
+<td>
+⌨<a href="https://gist.github.com/Jealh-h/9ab32f0ec87816c1ef983a5e547548fc" target="_blank">Weekly Development Breakdown</a>
+<!-- code_time starts -->
+<!-- code_time ends -->
+</td>
+</tr>
 ######
 ![Jealh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jealh-h)
 
