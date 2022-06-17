@@ -18,19 +18,6 @@ Here are some ideas to get you started:
 - Hobby🤩: 📷 🏀 💻 🖍 🍲
 - 💬 Ask me about ...you want to know..
 
-<div style="display:flex;justify-content:space-evenly;align-items:start">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jealh-h&layout=compact" />
-<span>
- ⌨<a href="https://gist.github.com/Jealh-h/9ab32f0ec87816c1ef983a5e547548fc" target="_blank">
-	Weekly Development Breakdown
-</a>
-<!-- code_time starts -->
-<!-- code_time ends -->
-</span>
-</div>
-
-![Jealh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jealh-h)
-
 <div align="center">
 <p></p>
 <img src="https://profile-counter.glitch.me/Jealh-h/count.svg" alt="hit counter" align="center">
